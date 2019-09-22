@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "648394799136",
+    "firebase_url": "https://sproutsbaazar.firebaseio.com",
+    "project_id": "sproutsbaazar",
+    "storage_bucket": "sproutsbaazar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648394799136:android:e1df531efc9fbeffb9e445",
+        "android_client_info": {
+          "package_name": "com.example.sproutsbaazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648394799136-aqcmfvnu6dbqq0roin1emnv5e9gss1bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sproutsbaazar",
+            "certificate_hash": "5c7b1c16d211c725fcd0d1b09805203880884af9"
+          }
+        },
+        {
+          "client_id": "648394799136-4g04f0g3r2phpkopc1n65nq6ac31g7mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL_17W2WaeueWEnXzmOpJGxREy8Iaoq_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648394799136-4g04f0g3r2phpkopc1n65nq6ac31g7mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
